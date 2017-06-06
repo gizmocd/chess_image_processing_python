@@ -1,0 +1,1 @@
+# chess_image_processing_python
